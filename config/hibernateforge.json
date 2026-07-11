@@ -1,0 +1,19 @@
+{
+  "_comment": "Hibernateforge configuration — Edit as needed",
+  "startEnabled": true,
+  "ticksToSkip": 400,
+  "permissionLevel": 2,
+  "enableMemoryOptimization": true,
+  "memoryCleanupIntervalSeconds": 30,
+  "memoryThresholdPercent": 80.0,
+  "maxChunksToUnloadPerTick": 10,
+  "forceGarbageCollection": true,
+  "gcIntervalSeconds": 30,
+  "saveBeforeHibernation": true,
+  "removeOldDroppedItems": true,
+  "droppedItemMaxAgeSeconds": 300,
+  "removeProjectiles": true,
+  "removeExperienceOrbs": true,
+  "compactDataStructures": true,
+  "logMemoryUsage": true
+}

@@ -1,0 +1,14 @@
+# Ignore logs and crash reports
+logs/
+*.log
+crash-reports/
+
+# Ignore local temporary/cache files
+world/session.lock
+usercache.json
+usernamecache.json
+.sable/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
