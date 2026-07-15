@@ -17,6 +17,7 @@
       "minecraft:river": "2026-07-07 22:55:58 +0200",
       "minecraft:lukewarm_ocean": "2026-07-08 18:12:05 +0200",
       "minecraft:stony_shore": "2026-07-09 01:57:27 +0200",
+      "minecraft:lush_caves": "2026-07-14 19:09:48 +0200",
       "minecraft:eroded_badlands": "2026-07-08 00:56:32 +0200",
       "minecraft:desert": "2026-07-07 22:49:54 +0200",
       "minecraft:ocean": "2026-07-09 01:57:15 +0200",
@@ -1031,10 +1032,14 @@
     "criteria": {
       "minecraft:pillager": "2026-07-09 00:39:56 +0200",
       "minecraft:skeleton": "2026-07-08 17:07:38 +0200",
+      "minecraft:piglin": "2026-07-14 23:30:30 +0200",
       "minecraft:enderman": "2026-07-08 17:23:23 +0200",
+      "minecraft:magma_cube": "2026-07-14 23:55:21 +0200",
       "minecraft:spider": "2026-07-08 01:25:19 +0200",
       "minecraft:zombie": "2026-07-08 01:21:07 +0200",
-      "minecraft:creeper": "2026-07-08 17:11:05 +0200"
+      "minecraft:creeper": "2026-07-08 17:11:05 +0200",
+      "minecraft:ghast": "2026-07-14 23:42:46 +0200",
+      "minecraft:hoglin": "2026-07-14 23:48:07 +0200"
     },
     "done": false
   },
@@ -4283,6 +4288,87 @@
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2026-07-09 02:42:10 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:high_fashion": {
+    "criteria": {
+      "0": "2026-07-14 22:11:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-07-14 23:29:49 +0200",
+      "minecraft:nether_wastes": "2026-07-14 23:28:26 +0200",
+      "minecraft:soul_sand_valley": "2026-07-14 23:29:58 +0200",
+      "minecraft:warped_forest": "2026-07-14 23:59:08 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-07-14 23:30:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-07-14 23:42:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-07-14 23:48:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-07-14 23:48:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2026-07-14 23:37:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-07-14 23:55:23 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2026-07-14 23:42:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-07-14 23:28:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2026-07-14 23:48:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-07-14 23:28:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-07-14 23:42:51 +0200"
     },
     "done": true
   },
