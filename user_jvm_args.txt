@@ -5,11 +5,5 @@
 -Xms1G
 
 # Maximum memory allocation (can grow up to 28GB under load)
--Xmx28G
+-Xmx16G
 
-# Use Generational ZGC for low-latency garbage collection
--XX:+UseZGC
--XX:+ZGenerational
-
-# Automatically return unused memory back to the OS after 60 seconds of idling
--XX:ZUncommitDelay=60

@@ -12,3 +12,7 @@ usernamecache.json
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+
+# Ignore JDK directory
+jdk-21/
+
