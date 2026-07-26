@@ -7394,5 +7394,215 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2026-07-26 00:47:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2026-07-26 00:49:29 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc": {
+    "criteria": {
+      "has_item": "2026-07-26 00:50:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2026-07-26 01:25:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-07-26 01:25:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2026-07-26 01:25:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-07-26 01:25:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-07-26 01:25:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-07-26 01:25:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2026-07-26 01:25:34 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_the_recipe": "2026-07-26 01:40:55 +0200"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2026-07-26 01:44:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/propeller_bearing": {
+    "criteria": {
+      "has_ingredient": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/optical_sensor": {
+    "criteria": {
+      "has_ingredient": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/directional_linked_receiver": {
+    "criteria": {
+      "has_ingredient": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/throttle_lever": {
+    "criteria": {
+      "has_ingredient": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/analog_transmission": {
+    "criteria": {
+      "has_ingredient": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/modulating_linked_receiver": {
+    "criteria": {
+      "has_ingredient": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/gyroscopic_propeller_bearing": {
+    "criteria": {
+      "has_ingredient": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2026-07-26 01:44:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2026-07-26 13:43:21 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/navigation_table": {
+    "criteria": {
+      "has_ingredient": "2026-07-26 12:54:44 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2026-07-26 13:38:12 +0200"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2026-07-26 13:38:36 +0200"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2026-07-26 12:54:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-07-26 13:43:21 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
