@@ -6816,27 +6816,15 @@
     },
     "done": true
   },
-  "create:extendo_grip": {
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
-      "0": "2026-07-26 00:04:38 +0200"
+      "has_log": "2026-07-25 23:08:28 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
     "criteria": {
-      "has_clay_ball": "2026-07-25 23:46:56 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2026-07-25 23:41:37 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
-    "criteria": {
-      "has_log": "2026-07-26 00:47:55 +0200"
+      "has_stripped_logs": "2026-07-25 23:08:28 +0200"
     },
     "done": true
   },
@@ -6846,45 +6834,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
+  "create:portable_storage_interface": {
     "criteria": {
-      "has_item": "2026-07-26 00:51:39 +0200"
+      "0": "2026-07-25 23:36:11 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_clay_ball": "2026-07-25 23:46:56 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-07-26 00:47:55 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
-    "criteria": {
-      "has_log": "2026-07-25 23:08:28 +0200"
-    },
-    "done": true
-  },
-  "create:windmill": {
-    "criteria": {
-      "0": "2026-07-26 01:29:12 +0200"
-    },
-    "done": true
-  },
-  "create:crafter_lazy_000": {
-    "criteria": {
-      "0": "2026-07-26 00:17:18 +0200"
-    },
-    "done": true
-  },
-  "create:speed_controller": {
-    "criteria": {
-      "0": "2026-07-25 23:48:52 +0200"
+      "has_redstone_torch": "2026-07-25 23:41:37 +0200"
     },
     "done": true
   },
@@ -6894,21 +6852,315 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2026-07-25 23:46:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2026-07-25 23:46:56 +0200"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2026-07-25 23:48:52 +0200"
+    },
+    "done": true
+  },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2026-07-26 00:04:38 +0200"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2026-07-26 00:17:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2026-07-26 00:47:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-07-26 00:47:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
+    "criteria": {
+      "has_item": "2026-07-26 00:51:39 +0200"
+    },
+    "done": true
+  },
   "simulated:recipes/misc/white_symmetric_sail": {
     "criteria": {
       "has_ingredient": "2026-07-26 00:51:39 +0200"
     },
     "done": true
   },
-  "create:portable_storage_interface": {
+  "create:windmill": {
     "criteria": {
-      "0": "2026-07-25 23:36:11 +0200"
+      "0": "2026-07-26 01:29:12 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_hanging_sign": {
+  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
     "criteria": {
-      "has_stripped_logs": "2026-07-25 23:08:28 +0200"
+      "has_item": "2026-07-26 20:22:14 +0200"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2026-07-26 22:48:53 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/schedule_clear": {
+    "criteria": {
+      "has_item": "2026-07-26 22:50:11 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2026-07-26 22:50:13 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2026-07-26 22:50:13 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2026-07-26 22:50:13 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2026-07-26 22:50:13 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2026-07-26 22:50:13 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2026-07-26 22:50:13 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2026-07-26 22:50:13 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-07-26 22:50:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2026-07-26 23:25:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2026-07-26 23:25:22 +0200"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2026-07-26 23:35:12 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2026-07-27 00:15:02 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "brass": "2026-07-27 16:04:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-27 16:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-27 16:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-27 16:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-07-27 16:25:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-27 16:15:59 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/mechanical_grindstone": {
+    "criteria": {
+      "andesite": "2026-07-27 15:33:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-27 16:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-27 16:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2026-07-27 16:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-27 16:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-27 16:15:59 +0200"
     },
     "done": true
   },

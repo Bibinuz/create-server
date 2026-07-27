@@ -8082,27 +8082,21 @@
     },
     "done": true
   },
-  "create:sturdy_sheet": {
-    "criteria": {
-      "0": "2026-07-26 01:25:54 +0200"
-    },
-    "done": true
-  },
   "create:potato_cannon": {
     "criteria": {
       "0": "2026-07-26 00:09:15 +0200"
     },
     "done": true
   },
-  "create:crushing_wheel": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "0": "2026-07-26 00:47:54 +0200"
+      "has_stone_slab": "2026-07-26 00:18:49 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_compass": "2026-07-26 01:35:07 +0200"
+      "has_stone_slab": "2026-07-26 00:18:52 +0200"
     },
     "done": true
   },
@@ -8112,9 +8106,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
+  "create:crushing_wheel": {
     "criteria": {
-      "has_stone_slab": "2026-07-26 00:18:52 +0200"
+      "0": "2026-07-26 00:47:54 +0200"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2026-07-26 01:25:54 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2026-07-26 01:25:54 +0200"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2026-07-26 01:28:19 +0200"
     },
     "done": true
   },
@@ -8127,12 +8139,6 @@
   "create:recipes/misc/crafting/kinetics/train_trapdoor": {
     "criteria": {
       "has_item": "2026-07-26 01:28:28 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2026-07-26 00:18:49 +0200"
     },
     "done": true
   },
@@ -8166,15 +8172,159 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/schedule": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_item": "2026-07-26 01:25:54 +0200"
+      "has_compass": "2026-07-26 01:35:07 +0200"
     },
     "done": true
   },
-  "create:train_casing_00": {
+  "create:train": {
     "criteria": {
-      "0": "2026-07-26 01:28:19 +0200"
+      "0": "2026-07-26 21:23:23 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/schedule_clear": {
+    "criteria": {
+      "has_item": "2026-07-26 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "create:conductor": {
+    "criteria": {
+      "0": "2026-07-26 21:36:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-07-26 23:07:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-07-26 23:07:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-07-26 23:07:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-07-26 23:07:23 +0200"
+    },
+    "done": true
+  },
+  "create:honey_drain": {
+    "criteria": {
+      "0": "2026-07-26 23:24:19 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2026-07-26 23:42:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-07-26 23:49:57 +0200"
+    },
+    "done": true
+  },
+  "simulated:what_goes_down": {
+    "criteria": {
+      "0": "2026-07-26 23:51:04 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2026-07-27 00:18:12 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/mechanical_grindstone": {
+    "criteria": {
+      "andesite": "2026-07-27 00:18:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2026-07-27 00:29:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2026-07-27 00:29:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2026-07-27 00:29:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-07-27 00:29:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-07-27 00:29:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-07-27 00:29:50 +0200"
+    },
+    "done": true
+  },
+  "simulated:not_gonna_sugarcoat_it": {
+    "criteria": {
+      "0": "2026-07-27 13:35:20 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/contraption_diagram": {
+    "criteria": {
+      "has_ingredient": "2026-07-27 13:40:37 +0200"
+    },
+    "done": true
+  },
+  "simulated:applied_kinematics": {
+    "criteria": {
+      "0": "2026-07-27 13:40:37 +0200"
+    },
+    "done": true
+  },
+  "create:linked_controller": {
+    "criteria": {
+      "0": "2026-07-27 13:45:28 +0200"
+    },
+    "done": true
+  },
+  "create_dragons_plus:recipes/fragile_fluid_tank": {
+    "criteria": {
+      "has_copper_sheet": "2026-07-27 15:36:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2026-07-27 16:55:40 +0200"
     },
     "done": true
   },

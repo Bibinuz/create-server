@@ -7568,15 +7568,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
-    "criteria": {
-      "has_log": "2026-07-26 13:43:21 +0200"
-    },
-    "done": true
-  },
   "simulated:recipes/misc/navigation_table": {
     "criteria": {
       "has_ingredient": "2026-07-26 12:54:44 +0200"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2026-07-26 12:54:44 +0200"
     },
     "done": true
   },
@@ -7592,15 +7592,27 @@
     },
     "done": true
   },
-  "create:precision_mechanism": {
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
-      "0": "2026-07-26 12:54:44 +0200"
+      "has_log": "2026-07-26 13:43:21 +0200"
     },
     "done": true
   },
   "minecraft:recipes/decorations/jungle_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2026-07-26 13:43:21 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2026-07-27 00:20:23 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/mechanical_grindstone": {
+    "criteria": {
+      "andesite": "2026-07-27 00:20:23 +0200"
     },
     "done": true
   },
