@@ -7092,6 +7092,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/mechanical_grindstone": {
+    "criteria": {
+      "andesite": "2026-07-27 15:33:18 +0200"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/printer": {
     "criteria": {
       "brass": "2026-07-27 16:04:51 +0200"
@@ -7116,21 +7122,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2026-07-27 16:25:06 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2026-07-27 16:15:59 +0200"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/mechanical_grindstone": {
-    "criteria": {
-      "andesite": "2026-07-27 15:33:18 +0200"
     },
     "done": true
   },
@@ -7161,6 +7155,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2026-07-27 16:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-07-27 16:25:06 +0200"
     },
     "done": true
   },
