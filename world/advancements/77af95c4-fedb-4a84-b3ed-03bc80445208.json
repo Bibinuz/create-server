@@ -7176,6 +7176,18 @@
     },
     "done": true
   },
+  "create_dragons_plus:recipes/fragile_fluid_tank": {
+    "criteria": {
+      "has_copper_sheet": "2026-07-28 23:36:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/factory_gauge_clear": {
+    "criteria": {
+      "has_item": "2026-07-28 23:37:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2026-07-29 00:00:37 +0200"
@@ -7212,12 +7224,6 @@
     },
     "done": true
   },
-  "create:saw_processing": {
-    "criteria": {
-      "0": "2026-07-29 00:24:34 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2026-07-29 00:00:37 +0200"
@@ -7236,12 +7242,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2026-07-29 00:01:28 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-07-29 00:00:37 +0200"
@@ -7254,27 +7254,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2026-07-29 00:01:28 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/factory_gauge_clear": {
-    "criteria": {
-      "has_item": "2026-07-28 23:37:54 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-07-29 00:00:37 +0200"
-    },
-    "done": true
-  },
-  "create_dragons_plus:recipes/fragile_fluid_tank": {
-    "criteria": {
-      "has_copper_sheet": "2026-07-28 23:36:38 +0200"
     },
     "done": true
   },
@@ -7296,6 +7278,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-07-29 00:00:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2026-07-29 00:01:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2026-07-29 00:01:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2026-07-29 00:01:28 +0200"
@@ -7308,9 +7308,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "create:saw_processing": {
     "criteria": {
-      "has_blackstone": "2026-07-29 00:00:37 +0200"
+      "0": "2026-07-29 00:24:34 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2026-07-29 17:07:49 +0200"
+    },
+    "done": true
+  },
+  "create:track_crafting_factory": {
+    "criteria": {
+      "0": "2026-07-29 17:37:27 +0200"
     },
     "done": true
   },
