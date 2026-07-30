@@ -15,6 +15,7 @@
       "minecraft:river": "2026-07-08 00:54:10 +0200",
       "minecraft:lukewarm_ocean": "2026-07-09 01:00:18 +0200",
       "minecraft:lush_caves": "2026-07-08 02:04:17 +0200",
+      "minecraft:dripstone_caves": "2026-07-30 15:49:40 +0200",
       "minecraft:savanna": "2026-07-08 00:51:18 +0200",
       "minecraft:plains": "2026-07-08 01:04:20 +0200",
       "minecraft:deep_lukewarm_ocean": "2026-07-21 20:24:20 +0200"
@@ -7613,6 +7614,30 @@
   "create_enchantment_industry:recipes/mechanical_grindstone": {
     "criteria": {
       "andesite": "2026-07-27 00:20:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2026-07-30 13:13:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2026-07-30 13:13:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2026-07-30 13:13:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2026-07-30 13:17:05 +0200"
     },
     "done": true
   },
