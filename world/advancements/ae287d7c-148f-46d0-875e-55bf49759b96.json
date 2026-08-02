@@ -1682,6 +1682,8 @@
     "criteria": {
       "minecraft:pillager": "2026-07-09 01:41:15 +0200",
       "minecraft:skeleton": "2026-07-08 02:06:56 +0200",
+      "minecraft:zombified_piglin": "2026-08-02 11:51:57 +0200",
+      "minecraft:ghast": "2026-08-02 12:57:05 +0200",
       "minecraft:hoglin": "2026-07-20 17:42:44 +0200",
       "minecraft:cave_spider": "2026-07-09 01:16:43 +0200",
       "minecraft:piglin": "2026-07-20 19:00:46 +0200",
@@ -1692,7 +1694,8 @@
       "minecraft:creeper": "2026-07-09 01:30:35 +0200",
       "minecraft:drowned": "2026-07-21 21:19:28 +0200",
       "minecraft:wither": "2026-08-01 02:47:15 +0200",
-      "minecraft:zombie_villager": "2026-07-21 00:53:42 +0200"
+      "minecraft:zombie_villager": "2026-07-21 00:53:42 +0200",
+      "minecraft:slime": "2026-08-02 02:13:37 +0200"
     },
     "done": false
   },
@@ -7651,6 +7654,36 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2026-08-01 02:47:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-08-02 00:39:31 +0200"
+    },
+    "done": true
+  },
+  "create_dragons_plus:recipes/fragile_fluid_tank": {
+    "criteria": {
+      "has_copper_sheet": "2026-08-02 12:09:46 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/misc/smithing/blaze_forger": {
+    "criteria": {
+      "has_blaze_burner": "2026-08-02 12:31:36 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/misc/smithing/blaze_enchanter": {
+    "criteria": {
+      "has_blaze_burner": "2026-08-02 12:31:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2026-08-02 12:57:05 +0200"
     },
     "done": true
   },
