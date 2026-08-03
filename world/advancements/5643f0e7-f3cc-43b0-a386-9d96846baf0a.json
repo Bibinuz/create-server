@@ -8826,5 +8826,23 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-08-02 20:03:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-08-02 20:03:40 +0200"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2026-08-02 20:45:02 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
