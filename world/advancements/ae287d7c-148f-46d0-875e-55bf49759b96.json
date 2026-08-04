@@ -7669,21 +7669,51 @@
     },
     "done": true
   },
-  "create_enchantment_industry:recipes/misc/smithing/blaze_forger": {
-    "criteria": {
-      "has_blaze_burner": "2026-08-02 12:31:36 +0200"
-    },
-    "done": true
-  },
   "create_enchantment_industry:recipes/misc/smithing/blaze_enchanter": {
     "criteria": {
       "has_blaze_burner": "2026-08-02 12:31:35 +0200"
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/misc/smithing/blaze_forger": {
+    "criteria": {
+      "has_blaze_burner": "2026-08-02 12:31:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2026-08-02 12:57:05 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "brass": "2026-08-03 23:27:57 +0200"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2026-08-03 23:37:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_trapdoor_from_honeycomb": {
+    "criteria": {
+      "has_copper_trapdoor": "2026-08-04 00:03:01 +0200"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2026-08-04 00:14:02 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2026-08-04 01:11:48 +0200"
     },
     "done": true
   },
